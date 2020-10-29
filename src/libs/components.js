@@ -1,7 +1,0 @@
-function webpackComponent() {
-
-}
-
-function nyanCatComponent() {
-
-}
